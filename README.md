@@ -1,4 +1,4 @@
-**Adaptive Content Slider**
+# Adaptive Content Slider
 
 This repository contains starter files for building an adaptive content slider that lets users dynamically adjust the level of detail for content using a slider.
 
